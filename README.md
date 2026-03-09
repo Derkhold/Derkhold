@@ -1,13 +1,13 @@
 
 # 💫 About Me
 
-Hi, I'm Iséo, a graduate in financial markets with a strong curiosity for computational systems, machine learning, and technical infrastructure.
+Hi, I'm Iséo. I have an academic background in quantitative finance, coupled with a deep-rooted passion for computer science, machine learning, and technical infrastructure.
 
-My background in financial markets led me to explore projects related to market dynamics and trading systems, but this repository is intentionally broader. It reflects a general curiosity for computational methods and technical systems.
+While my initial projects naturally gravitated toward financial modeling and trading algorithms, this repository reflects a much broader fascination with computational methods. I am a self-driven continuous learner: my technical journey began with writing basic scripts for data analysis and progressively evolved into architecting scalable, real-world components. This progression has instilled in me a fundamental appreciation for the difference between merely writing functional code and engineering robust, reliable systems.
 
-Programming, for me, is not only a tool to implement ideas but also a way to explore and understand complex environments. Many of the projects here begin as small experiments around questions that I find interesting and gradually evolve into more structured systems.
+My methodology is strictly iterative—I prototype, rigorously test, and rebuild. I view programming not simply as a tool for implementation, but as a structured framework to deconstruct and understand complex environments. Consequently, many projects hosted here originate as isolated experiments addressing specific structural questions, before gradually maturing into comprehensive systems.
 
-In that sense, this GitHub is less a portfolio and more an evolving technical notebook.
+In that sense, this GitHub is less a static portfolio and more an evolving technical notebook documenting my engineering process.
 
 ---
 
